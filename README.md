@@ -36,11 +36,13 @@ My-Portfolio-Website/
 This portfolio represents my journey as a **B.Tech Computer Science student** and aspiring **Java Backend Developer**. It serves as a central place to showcase my projects, technical skills, achievements, and career goals.
 
 ## 📸 Screenshots
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-06 at 1 49 31 PM" src="https://github.com/user-attachments/assets/64cf9a0d-ca70-4fa9-8cfd-f2efb6e38077" />
+
+
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-06 at 1 49 32 PM" src="https://github.com/user-attachments/assets/df6adba1-ca4a-42b5-b4b5-790b65018c9e" />
+
+
 <img width="1600" height="900" alt="WhatsApp Image 2026-07-06 at 1 49 32 PM (1)" src="https://github.com/user-attachments/assets/b324cf33-1c3b-4aec-83eb-3d140fd2fdd4" />
-
-<img width="1600" height="900" alt="WhatsApp Image 2026-07-06 at 1 49 32 PM (1)" src="https://github.com/user-attachments/assets/691907bb-fa78-425a-8f2c-ed3537e2a128" />
-
-> Add screenshots of your portfolio here.
 
 ## 📈 Future Improvements
 
