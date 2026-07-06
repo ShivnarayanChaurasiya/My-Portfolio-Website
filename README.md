@@ -57,7 +57,7 @@ This portfolio represents my journey as a **B.Tech Computer Science student** an
 **Shivnarayan Chaurasiya**
 
 - GitHub: https://github.com/ShivnarayanChaurasiya
-- LinkedIn:https://www.linkedin.com/in/shivnarayan-chaurasiya-285499322/
+- LinkedIn: https://www.linkedin.com/in/shivnarayan-chaurasiya-285499322/
 
 ## ⭐ Support
 
