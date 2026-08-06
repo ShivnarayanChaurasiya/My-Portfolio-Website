@@ -65,7 +65,6 @@ If you like this project, please give it a **⭐ Star** on GitHub.
 
 It motivates me to build more amazing projects.
 
-
 ## 📄 License
 
 This project is open-source and available under the MIT License.
